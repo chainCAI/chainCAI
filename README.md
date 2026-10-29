@@ -1,10 +1,10 @@
 <div align="center">
 
-# 白菜与风 · chainCAI
+# 白菜与风 / chainCAI
 
 **AI 应用工程 —— 把想法做成能上线的东西**
 
-<sub>RAG 系统 · LLM 工作流 · 全栈交付 · 独立产品</sub>
+<sub>RAG 系统、LLM 工作流、全栈交付、独立产品</sub>
 
 <br/>
 
@@ -46,7 +46,7 @@
 
 `Astro` `TypeScript` `Cloudflare Pages` `GitHub Actions`
 
-**[在线访问 →](https://dsh.pages.dev)** · MIT
+**[在线访问 →](https://dsh.pages.dev)** ｜ MIT License
 
 </td>
 <td width="50%" valign="top">
@@ -55,7 +55,7 @@
 <img src="https://raw.githubusercontent.com/chainCAI/HS-Classifier/master/img/1.png" width="100%" alt="海关商品智能归类" />
 </a>
 
-#### 🧾 [HS-Classifier · 海关商品智能归类](https://github.com/chainCAI/HS-Classifier)
+#### 🧾 [HS-Classifier 海关商品智能归类](https://github.com/chainCAI/HS-Classifier)
 
 基于 RAG 的报关归类与申报要素校验系统，前后端分离 + Docker Compose 一键起，20K+ 字文档覆盖部署、测试与业务规则。
 
@@ -106,11 +106,11 @@
 
 | 层 | 用到的 |
 |---|---|
-| **AI / LLM** | 百炼 · DeepSeek · RAG 检索 · 提示词工程 · 情感分析 · 模型计量与成本归因 |
-| **后端** | Python · FastAPI · SQLAlchemy · JWT · AES-256 · Go |
-| **前端** | React · TypeScript · Vue 3 · Astro · ECharts · Tailwind |
-| **数据与采集** | CDP 协议 · 定时任务调度 · SQLite / PostgreSQL |
-| **交付运维** | Docker Compose · Nginx · Cloudflare Pages / Zero Trust · GitHub Actions |
+| **AI / LLM** | 百炼、DeepSeek、RAG 检索、提示词工程、情感分析、模型计量与成本归因 |
+| **后端** | Python、FastAPI、SQLAlchemy、JWT、AES-256、Go |
+| **前端** | React、TypeScript、Vue 3、Astro、ECharts、Tailwind |
+| **数据与采集** | CDP 协议、定时任务调度、SQLite / PostgreSQL |
+| **交付运维** | Docker Compose、Nginx、Cloudflare Pages / Zero Trust、GitHub Actions |
 
 ---
 
@@ -124,6 +124,6 @@
 
 <div align="center">
 
-<sub>公众号：<b>白菜与风AI</b> · 有问题欢迎开 Issue</sub>
+<sub>公众号：<b>白菜与风AI</b>，有问题欢迎开 Issue</sub>
 
 </div>
