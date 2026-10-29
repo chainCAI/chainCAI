@@ -63,12 +63,11 @@
 
 </td>
 </tr>
+</table>
+
+<table>
 <tr>
 <td width="50%" valign="top">
-
-<a href="https://github.com/chainCAI/weibo-sentiment-monitor">
-<img src="https://img.shields.io/github/stars/chainCAI/weibo-sentiment-monitor?style=social" alt="stars" />
-</a>
 
 #### 📊 [微博舆情监控系统](https://github.com/chainCAI/weibo-sentiment-monitor)
 
